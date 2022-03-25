@@ -5,7 +5,8 @@
 - 📫 How to reach me: www.linkedin.com/in/aanchalsaxena/ or aanchalsaxena018@gmail.com 
 
 **Languages and Tools:**
-![react-original][https://user-images.githubusercontent.com/8483419/160050555-0c7b0796-c419-4fc8-ac53-de38811b1473.svg|width=100px]
+[<alt="React" width="26px" src="https://user-images.githubusercontent.com/8483419/160050555-0c7b0796-c419-4fc8-ac53-de38811b1473.svg" style="padding-right:10px;" />]
+![react-original][|width=100px]
 ![javascript-original](https://user-images.githubusercontent.com/8483419/160050603-34244211-a822-4d88-a299-1a43441b6845.svg)
 ![css3-original](https://user-images.githubusercontent.com/8483419/160050656-7be712bd-a937-4cb9-869a-2babf56a942f.svg)
 ![html5-original](https://user-images.githubusercontent.com/8483419/160050723-1983e1ea-2236-45fc-a2f1-56a89daaf1d9.svg)
