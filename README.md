@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any front end projects
 - 📫 How to reach me: www.linkedin.com/in/aanchalsaxena/ or aanchalsaxena018@gmail.com
 
-<!---
-aanchalcoder18/aanchalcoder18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages and Tools:**
+
+
+![react-original-wordmark](https://user-images.githubusercontent.com/8483419/160049815-808990a4-d559-47c3-8a6d-74c376a1430b.svg)
