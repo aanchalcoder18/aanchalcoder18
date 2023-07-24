@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aanchalcoder18
-- 👀 I’m interested in Front End Development and User Experience Design
-- 🌱 I’m currently learning React and Node.js
-- 💞️ I’m looking to collaborate on any front end projects
+- 👀 I’m interested in Data Analytics 
+- 🌱 I’m currently learning SQL and Python
+- 💞️ I’m looking to collaborate on any beginner-friendly data projects
 - 📫 How to reach me: www.linkedin.com/in/aanchalsaxena/ or aanchalsaxena018@gmail.com 
 
 **Languages and Tools:**
