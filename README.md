@@ -15,7 +15,7 @@ I recently completed the **Google Data Analytics Professional Certificate** and 
 ### 🛠️ Skills & Tools
 - **Languages:** SQL, R  
 - **Data Visualization:** Tableau, ggplot2  
-- **Other Tools:** Google Sheets, Excel, Google BigQuery
+- **Other Tools:** Google Sheets, Excel
 
 ---
 
