@@ -1,23 +1,26 @@
-- 👋 Hi, I’m @aanchalcoder18
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on any beginner-friendly data projects
-- 📫 How to reach me: www.linkedin.com/in/aanchalsaxena/ or aanchalsaxena018@gmail.com 
+## 👋 Hi there, I'm Aanchal!
 
-**Languages and Tools:**
+I'm a **data analytics enthusiast** passionate about turning data into actionable insights.  
+I recently completed the **Google Data Analytics Professional Certificate** and am currently strengthening my skills through real-world SQL and Tableau projects.
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/8483419/160050893-160a3136-0eac-40d0-bd6c-4df182f13602.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/8483419/160051016-2ff54e9b-5137-4a2e-b600-050b27b76d3a.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-</div>
+---
+
+### 💡 What I’m Working On
+- 🧠 Building my SQL portfolio using [sql-practice.com](https://www.sql-practice.com) and HackerRank  
+- 📊 Creating interactive Tableau dashboards to visualize key trends  
+- 📘 Developing an R Markdown project for my Google capstone
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages:** SQL, R  
+- **Data Visualization:** Tableau, ggplot2  
+- **Other Tools:** Google Sheets, Excel, Google BigQuery
+
+---
+
+### 🤝 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/aanchalsaxena/)  
+- 📧 Email: aanchalsaxena018@gmail.com  
+
 
