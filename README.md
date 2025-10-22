@@ -1,26 +1,27 @@
 ## 👋 Hi there, I'm Aanchal!
 
-I'm a **data analytics enthusiast** passionate about turning data into actionable insights.  
-I recently completed the **Google Data Analytics Professional Certificate** and am currently strengthening my skills through real-world SQL and Tableau projects.
-
----
-
-### 💡 What I’m Working On
-- 🧠 Building my SQL portfolio using [sql-practice.com](https://www.sql-practice.com) and HackerRank  
-- 📊 Creating interactive Tableau dashboards to visualize key trends  
-- 📘 Developing an R Markdown project for my Google capstone
+I'm a **data analyst** passionate about transforming raw data into meaningful insights that drive decisions.
+I recently completed the **Google Data Analytics Professional Certificate** and am now building hands-on projects in **SQL**, **R**, and **Tableau** to further strengthen my analytical and visualization skills.
 
 ---
 
 ### 🛠️ Skills & Tools
-- **Languages:** SQL, R  
-- **Data Visualization:** Tableau, ggplot2  
+- **Languages:** SQL, R
+- **Database:** BigQuery, PostgreSQL, MySQL, SQLite
+- **Data Visualization:** Tableau, tidyverse  
 - **Other Tools:** Google Sheets, Excel
+
+---
+
+### 🌱 Current Focus
+- 🧠 Strengthening SQL through medium-level problems
+- 📊 Creating Tableau dashboards for my portfolio
+- 🌐 Completing my capstone project
 
 ---
 
 ### 🤝 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/aanchalsaxena/)  
-- 📧 Email: aanchalsaxena018@gmail.com  
+- 📧 Email: **aanchalsaxena018@gmail.com**  
 
 
