@@ -21,7 +21,7 @@ I recently completed the **Google Data Analytics Professional Certificate** and 
 ---
 
 ### 📂 Projects & Portfolio
-Explore all my work — including my SQL practice, Tableau dashboards, R Markdown projects, and résumé — in my [**Data Analytics Portfolio**](https://github.com/aanchalcoder18/aanchal-data-portfolio).
+- Explore all my work — including my SQL practice, Tableau dashboards, R Markdown projects, and résumé — in my [**Data Analytics Portfolio**](https://github.com/aanchalcoder18/aanchal-data-portfolio).
 
 ---
 
